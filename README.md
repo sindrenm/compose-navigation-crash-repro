@@ -1,3 +1,6 @@
+> [!note]
+> This repository is archived, as the issue it reproduces has been fixed.
+
 # Navigation Crash Reproduction
 
 This project exists to showcase how to reproduce a crash in the `navigation-compose` artifact. To reproduce the crash,
